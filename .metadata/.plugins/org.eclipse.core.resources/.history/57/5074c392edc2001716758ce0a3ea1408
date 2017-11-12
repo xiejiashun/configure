@@ -1,0 +1,10 @@
+package com.itheima.example3;
+//继承：extends
+public class Cat extends Animal{
+	//1.空参够构造和有参构造
+	public Cat(){}
+	public Cat(String color,int age){
+		
+	}
+
+}

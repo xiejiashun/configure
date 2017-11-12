@@ -1,0 +1,13 @@
+package com.itheima.example3;
+
+public class Test {
+	public static void main(String[] args) {
+		Cat c =new Cat("Blue",4);
+		String color=c.getColor();
+		int leg =c.getLeg();
+		System.out.println(color+"..."+leg);
+		System.out.println("--------------------");
+		
+		
+	}
+}

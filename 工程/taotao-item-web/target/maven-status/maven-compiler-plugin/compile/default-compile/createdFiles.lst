@@ -1,0 +1,4 @@
+com\taotao\item\listener\ItemChangeGenHTMLListener.class
+com\taotao\item\pojo\Item.class
+com\taotao\item\controller\ItemController.class
+com\taotao\item\controller\FreemarkerGenHTMLController.class

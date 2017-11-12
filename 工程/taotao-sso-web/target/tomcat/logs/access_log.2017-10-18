@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [18/Oct/2017:11:55:26 +0800] "GET /page/login?url=http://localhost:8092/order/order-cart.html HTTP/1.1" 200 4073 http-bio-8088-exec-1 2896
+0:0:0:0:0:0:0:1 - - [18/Oct/2017:11:55:26 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8088-exec-2 6
+0:0:0:0:0:0:0:1 - - [18/Oct/2017:11:55:55 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8088-exec-3 138
+0:0:0:0:0:0:0:1 - - [18/Oct/2017:12:36:14 +0800] "GET /page/login?url=http://localhost:8092/order/create.html HTTP/1.1" 200 4069 http-bio-8088-exec-5 2
+0:0:0:0:0:0:0:1 - - [18/Oct/2017:12:36:23 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8088-exec-6 8
